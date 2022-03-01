@@ -1,0 +1,17 @@
+.contact-info-item{
+    border: 1px solid rgb(238, 230, 230);
+    padding: 10px;
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+
+ .contact-form{
+    border: 1px solid rgb(238, 230, 230);
+    width: 1000px;
+    padding: 5px;
+    margin-top: 30px;
+    border-radius: 7px;
+  margin-left: 10%;
+   
+} 

@@ -1,0 +1,18 @@
+.home-color{
+    background-color: whitesmoke;
+}
+.course-img{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border-radius: 10px 25px 20px 10px;
+    background-color: wheat;
+}
+
+.course-card{
+    border-radius: 15px;
+    background-color: silver;
+    margin-left: 20px;
+    margin-right: 20px;
+}

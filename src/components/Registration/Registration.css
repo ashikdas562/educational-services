@@ -1,0 +1,17 @@
+.singup-content{
+    border: 1px solid rgb(246, 226, 226);
+    padding: 20px;
+    border-radius: 10px;
+}               
+ .singup-form{
+     margin: 8px;
+ }            
+ 
+ .singup-form-input{
+     padding: 5px;
+     width: 300px;
+ }
+ .singup-btn{
+     padding: 8px;
+     width: 150px;
+ }

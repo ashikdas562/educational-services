@@ -1,0 +1,25 @@
+.bg-color{
+    background-color: whitesmoke;
+}
+
+.home-head-text{
+    margin-top: 70px;
+    margin-right: 80px;
+    color: rgba(73, 73, 107, 0.959);
+    
+}
+.home-head-img{
+    width: 500px;
+    margin-bottom: 5px;
+    margin-left: px;
+}
+
+.education-border{
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: px;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px;
+}

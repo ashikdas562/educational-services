@@ -1,0 +1,84 @@
+[
+    {
+        "key": "01ddh",
+        "img": "https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?w=750&ssl=1",
+        "title": "Font-End Developer",
+        "course": "A front-end developer develops the front end of a web application by implementing visuals and intera.",
+        "like": "95%",
+        "price": "10"
+
+    },
+
+    {
+        "key": "02dh",
+        "img": "https://clarusway.com/wp-content/uploads/2021/06/backend-developer-technical-skills-1.png",
+        "title": "Back-End Developer",
+        "course": "Programming languages like Python, Java, SQL, NoSQL, and tools like Git, Postman are core skills.",
+        "like": "98%",
+        "price": "20"
+
+    },
+    {
+        "key": "03ddh",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+        "title": "Full satck developoer",
+        "course": "You’ve probably heard the term full stack developer tossed around by in-the-know coworkers or on ",
+        "like": "89%",
+        "price": "50"
+
+    },
+    {
+        "key": "04ddh",
+        "img": "https://cdn.centraljersey.com/wp-content/uploads/sites/26/2020/05/Mobile-APP-Development.jpeg",
+        "title": "App Development",
+        "course": "App Development refers to the creation of computer applications for use on mobile devices such .",
+        "like": "99%",
+        "price": "30"
+
+    },
+    {
+        "key": "05ddh",
+        "img": "https://5.imimg.com/data5/GG/MO/NF/SELLER-99147532/graphic-designing-course-500x500.png",
+        "title": "Graphic Desigining",
+        "course": "Start working towards your career in graphics with the BA Graphic Design programme at BSBI.",
+        "like": "99%",
+        "price": "25"
+
+    },
+    {
+        "key": "06ddh",
+        "img": "https://5.imimg.com/data5/DS/KL/XZ/GLADMIN-60638638/motion-1000x1000.png",
+        "title": "Video Editor",
+        "course": "Online training courses you can create with iSpring Suite iSpring Suite is a hassle-free way to create any type of online training module with a zero",
+        "like": "99%",
+        "price": "40"
+
+    },
+    {
+        "key": "07ddh",
+        "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/05/05011631/How-to-Learn-Spoken-English_.png",
+        "title": "Spken English",
+        "course": "English is one of the widely spoken language in the world. Hence, to be successful in life, you need to have a good command over it..",
+        "like": "100%",
+        "price": "8"
+
+    },
+    {
+        "key": "08ddh",
+        "img": "https://wall-street.com/wp-content/uploads/2018/01/jan-6-top-pic-digital-1000x640.jpg",
+        "title": "Digital Marketing",
+        "course": "Online marketing is the process of advertising any kind of good or service to potential consumers via digital strategies.",
+        "like": "95%",
+        "price": "30"
+
+    },
+    {
+        "key": " ",
+        "img": "https://didyouknowscience.com/wp-content/uploads/2020/10/Types-of-data-entry-services.jpg",
+        "title": "Data Entry",
+        "course": "Every sort of industry is in a run to store their data confidentially and safely! And thats why online data entry jobs!",
+        "like": "98%",
+        "price": "15"
+
+    }
+]

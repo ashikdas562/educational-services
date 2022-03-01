@@ -1,0 +1,13 @@
+.input{
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 8px;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+}
+ .login-container{
+     width: 500px;
+     padding: 15px;
+     border: 1px solid rgb(235, 221, 221);
+     border-radius: 5px;
+ }
